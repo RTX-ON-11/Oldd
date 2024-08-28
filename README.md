@@ -1,4 +1,4 @@
-/usr/bin/tar
+/usr/bin/tar  
 tar found in (/usr/bin/tar)
 Entpacken von pulsesecure (22.7.R3) über (22.7.R2) ...
 Save all current Pulse Secure configuration settings?[Yy/Nn]y
